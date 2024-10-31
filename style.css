@@ -1,0 +1,38 @@
+.rtc-div {
+   padding:10px;
+   overflow:hidden;
+   background-color:#fff;
+   clear:both;
+}
+
+.rtc-div a {
+   border-radius:8px 8px 8px 8px;
+   -moz-border-radius:8px 8px 8px 8px;
+   -webkit-border-radius:8px 8px 8px 8px;
+   background:none repeat scroll 0 0 #E6E6E6;
+   display:block;
+   font-weight:bold;
+   height:14px;
+   line-height:14px;
+   margin:3px;
+   padding:3px 5px 3px 5px;
+   text-decoration:none;
+   float:left;
+   text-transform:uppercase;
+}
+
+.rtc-link {
+   float:right;
+   font-size:10px;
+}
+
+.rtc-link a {
+   border-radius:0;
+   -moz-border-radius:0;
+   -webkit-border-radius:0;
+   font-wight:regular;
+   padding:0;
+   margin:0;
+   background:none repeat scroll 0 0 #ffffff;
+   text-transform:none;
+}
